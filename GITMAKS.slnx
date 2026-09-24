@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="GITMAKS/GITMAKS.vcxproj" Id="fa53326a-0d9a-488f-8cc6-0225f64cec98" />
+  <Project Path="GITMAKS/GITMAKS.vcxproj" />
 </Solution>

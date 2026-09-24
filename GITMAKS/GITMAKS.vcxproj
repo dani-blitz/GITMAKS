@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fa53326a-0d9a-488f-8cc6-0225f64cec98}</ProjectGuid>
+    <ProjectGuid>{2F964A12-3B90-08C1-31CA-77CAD8812502}</ProjectGuid>
     <RootNamespace>GITMAKS</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
